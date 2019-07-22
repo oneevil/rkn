@@ -10078,6 +10078,7 @@ ipset add rkn address 18.203.231.105
 ipset add rkn address 18.203.235.76
 ipset add rkn address 18.203.236.0/25
 ipset add rkn address 18.203.236.181
+ipset add rkn address 18.203.236.251
 ipset add rkn address 18.203.238.32/27
 ipset add rkn address 18.203.238.80
 ipset add rkn address 18.203.243.0/24
@@ -13940,6 +13941,7 @@ ipset add rkn address 34.207.192.0/26
 ipset add rkn address 34.207.192.250
 ipset add rkn address 34.207.193.30
 ipset add rkn address 34.207.193.109
+ipset add rkn address 34.207.194.194
 ipset add rkn address 34.207.195.111
 ipset add rkn address 34.207.195.169
 ipset add rkn address 34.207.197.90
@@ -17806,6 +17808,7 @@ ipset add rkn address 34.241.5.0
 ipset add rkn address 34.241.5.192/26
 ipset add rkn address 34.241.8.178
 ipset add rkn address 34.241.10.77
+ipset add rkn address 34.241.11.118
 ipset add rkn address 34.241.11.171
 ipset add rkn address 34.241.16.114
 ipset add rkn address 34.241.17.52
@@ -19602,7 +19605,7 @@ ipset add rkn address 34.251.66.12
 ipset add rkn address 34.251.67.203
 ipset add rkn address 34.251.69.63
 ipset add rkn address 34.251.75.41
-ipset add rkn address 34.251.76.188
+ipset add rkn address 34.251.76.188/30
 ipset add rkn address 34.251.81.81
 ipset add rkn address 34.251.83.141
 ipset add rkn address 34.251.84.156
@@ -24861,7 +24864,7 @@ ipset add rkn address 46.137.165.215
 ipset add rkn address 46.137.169.181
 ipset add rkn address 46.137.179.171
 ipset add rkn address 46.137.221.58
-ipset add rkn address 46.148.16.232/29
+ipset add rkn address 46.148.16.224/28
 ipset add rkn address 46.148.17.125
 ipset add rkn address 46.148.17.224/27
 ipset add rkn address 46.148.18.45
@@ -34094,7 +34097,7 @@ ipset add rkn address 52.215.46.35
 ipset add rkn address 52.215.46.97
 ipset add rkn address 52.215.46.226
 ipset add rkn address 52.215.49.83
-ipset add rkn address 52.215.49.224/27
+ipset add rkn address 52.215.49.192/26
 ipset add rkn address 52.215.50.171
 ipset add rkn address 52.215.50.212
 ipset add rkn address 52.215.52.155
@@ -43537,9 +43540,7 @@ ipset add rkn address 54.245.185.0/26
 ipset add rkn address 54.245.187.25
 ipset add rkn address 54.245.187.191
 ipset add rkn address 54.245.187.192/26
-ipset add rkn address 54.245.188.43
-ipset add rkn address 54.245.188.98
-ipset add rkn address 54.245.188.128/25
+ipset add rkn address 54.245.188.0/24
 ipset add rkn address 54.245.190.20
 ipset add rkn address 54.245.190.154
 ipset add rkn address 54.245.192.36
@@ -43560,13 +43561,8 @@ ipset add rkn address 54.245.201.217
 ipset add rkn address 54.245.203.137
 ipset add rkn address 54.245.208.19
 ipset add rkn address 54.245.212.237
-ipset add rkn address 54.245.213.58
-ipset add rkn address 54.245.213.83
-ipset add rkn address 54.245.213.142
-ipset add rkn address 54.245.213.192/26
-ipset add rkn address 54.245.215.26
-ipset add rkn address 54.245.215.123
-ipset add rkn address 54.245.215.128/25
+ipset add rkn address 54.245.213.0/24
+ipset add rkn address 54.245.215.0/24
 ipset add rkn address 54.245.216.20
 ipset add rkn address 54.245.217.158
 ipset add rkn address 54.245.217.251
@@ -43819,8 +43815,7 @@ ipset add rkn address 54.249.90.29
 ipset add rkn address 54.249.94.32/27
 ipset add rkn address 54.249.94.128/26
 ipset add rkn address 54.249.95.227
-ipset add rkn address 54.249.97.19
-ipset add rkn address 54.249.97.64/26
+ipset add rkn address 54.249.97.0/25
 ipset add rkn address 54.249.97.192
 ipset add rkn address 54.249.98.226
 ipset add rkn address 54.249.102.8
@@ -43880,10 +43875,8 @@ ipset add rkn address 54.250.133.67
 ipset add rkn address 54.250.133.160
 ipset add rkn address 54.250.134.79
 ipset add rkn address 54.250.143.64/26
-ipset add rkn address 54.250.143.132
-ipset add rkn address 54.250.143.192/26
-ipset add rkn address 54.250.144.44
-ipset add rkn address 54.250.144.64/26
+ipset add rkn address 54.250.143.128/25
+ipset add rkn address 54.250.144.0/25
 ipset add rkn address 54.250.146.2
 ipset add rkn address 54.250.146.65
 ipset add rkn address 54.250.146.159
@@ -43899,8 +43892,7 @@ ipset add rkn address 54.250.149.246
 ipset add rkn address 54.250.150.0/26
 ipset add rkn address 54.250.151.27
 ipset add rkn address 54.250.152.126
-ipset add rkn address 54.250.152.179
-ipset add rkn address 54.250.152.192/26
+ipset add rkn address 54.250.152.128/25
 ipset add rkn address 54.250.153.84
 ipset add rkn address 54.250.153.175
 ipset add rkn address 54.250.153.246
@@ -45628,8 +45620,7 @@ ipset add rkn address 68.183.0.0/26
 ipset add rkn address 68.183.1.4
 ipset add rkn address 68.183.2.41
 ipset add rkn address 68.183.3.0/24
-ipset add rkn address 68.183.5.0/26
-ipset add rkn address 68.183.5.128/25
+ipset add rkn address 68.183.5.0/24
 ipset add rkn address 68.183.7.0/24
 ipset add rkn address 68.183.8.144
 ipset add rkn address 68.183.11.0/24
@@ -47982,7 +47973,9 @@ ipset add rkn address 89.35.178.160
 ipset add rkn address 89.37.135.5
 ipset add rkn address 89.38.97.62
 ipset add rkn address 89.38.97.64/28
-ipset add rkn address 89.38.145.96/27
+ipset add rkn address 89.38.145.64/26
+ipset add rkn address 89.38.145.185
+ipset add rkn address 89.38.145.243
 ipset add rkn address 89.39.104.32
 ipset add rkn address 89.39.104.112/28
 ipset add rkn address 89.39.104.128/30
@@ -48547,6 +48540,7 @@ ipset add rkn address 91.230.246.101
 ipset add rkn address 91.231.59.212
 ipset add rkn address 91.231.84.124
 ipset add rkn address 91.231.84.234
+ipset add rkn address 91.231.85.29
 ipset add rkn address 91.231.85.144/30
 ipset add rkn address 91.231.86.0/26
 ipset add rkn address 91.231.86.213
@@ -49051,6 +49045,7 @@ ipset add rkn address 94.103.80.89
 ipset add rkn address 94.103.80.150
 ipset add rkn address 94.103.81.254
 ipset add rkn address 94.103.94.68
+ipset add rkn address 94.103.95.206
 ipset add rkn address 94.103.150.30
 ipset add rkn address 94.124.94.200
 ipset add rkn address 94.124.105.123
@@ -49104,6 +49099,7 @@ ipset add rkn address 94.130.188.109
 ipset add rkn address 94.130.188.192/26
 ipset add rkn address 94.130.189.136/29
 ipset add rkn address 94.130.189.216
+ipset add rkn address 94.130.190.51
 ipset add rkn address 94.130.190.235
 ipset add rkn address 94.130.191.64/27
 ipset add rkn address 94.130.191.176
@@ -52137,6 +52133,7 @@ ipset add rkn address 104.143.209.147
 ipset add rkn address 104.143.224.0/24
 ipset add rkn address 104.143.238.0/24
 ipset add rkn address 104.143.241.0/25
+ipset add rkn address 104.143.241.128/30
 ipset add rkn address 104.148.44.151
 ipset add rkn address 104.148.77.6
 ipset add rkn address 104.149.185.30
@@ -56936,6 +56933,7 @@ ipset add rkn address 159.69.105.143
 ipset add rkn address 159.69.107.0/26
 ipset add rkn address 159.69.108.54
 ipset add rkn address 159.69.111.170
+ipset add rkn address 159.69.112.141
 ipset add rkn address 159.69.113.183
 ipset add rkn address 159.69.114.0/25
 ipset add rkn address 159.69.117.240
@@ -57710,7 +57708,7 @@ ipset add rkn address 165.22.227.137
 ipset add rkn address 165.22.227.205
 ipset add rkn address 165.22.235.16
 ipset add rkn address 165.22.235.112
-ipset add rkn address 165.22.235.158
+ipset add rkn address 165.22.235.128/27
 ipset add rkn address 165.22.237.128/26
 ipset add rkn address 165.22.240.43
 ipset add rkn address 165.22.240.107
@@ -57845,6 +57843,7 @@ ipset add rkn address 167.71.79.224
 ipset add rkn address 167.71.80.23
 ipset add rkn address 167.71.88.144/31
 ipset add rkn address 167.71.135.0/24
+ipset add rkn address 167.71.139.0/26
 ipset add rkn address 167.71.139.192/26
 ipset add rkn address 167.71.143.114
 ipset add rkn address 167.71.143.208
@@ -59010,7 +59009,7 @@ ipset add rkn address 176.9.217.96/28
 ipset add rkn address 176.9.217.144/28
 ipset add rkn address 176.9.222.0/25
 ipset add rkn address 176.9.234.32/28
-ipset add rkn address 176.9.235.160/28
+ipset add rkn address 176.9.235.160/27
 ipset add rkn address 176.9.242.128/26
 ipset add rkn address 176.10.124.142
 ipset add rkn address 176.10.250.0/24
@@ -62997,6 +62996,7 @@ ipset add rkn address 195.201.129.253
 ipset add rkn address 195.201.135.76
 ipset add rkn address 195.201.136.128/26
 ipset add rkn address 195.201.139.98
+ipset add rkn address 195.201.139.155
 ipset add rkn address 195.201.140.96/27
 ipset add rkn address 195.201.144.183
 ipset add rkn address 195.201.148.78
